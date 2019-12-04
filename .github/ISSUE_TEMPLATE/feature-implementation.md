@@ -1,5 +1,5 @@
 ---
-name: Work to do
+name: Feature Implementation
 about: Details of the task to be completed.
 title: ''
 labels: ''
