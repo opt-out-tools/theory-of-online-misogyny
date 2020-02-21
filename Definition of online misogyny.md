@@ -14,7 +14,11 @@ While OOT tackles text-based online harassment first and foremost, online misogy
 
 ## How misogyny differs from sexism
 
-Misogyny and sexism are closely related but not the same thing. In Down Girl, The Logic of Misogyny [Down Girl, The Logic of Misogyny](https://books.google.de/books/about/Down_Girl.html?id=LqPoAQAACAAJ), Kate Manne defines sexism as the ideology that justifies and rationalises patriarchal social relations and structures. Sexism wants us to believe those power relations are normal and make good sense. Misogyny, on the other hand, comes into play to enforce this system when it’s at threat: “misogyny should be understood primarily as the ‘law enforcement’ branch of a patriarchal order, which has the overall function of policing and enforcing its governing norms and expectations.” Misogyny is thus always sexist, but sexism is not necessarily misogynistic. Read an interview where Kate Manne explains the distinction between sexism and misogyny in more detail [here](https://www.vox.com/identities/2017/12/5/16705284/metoo-weinstein-misogyny-trump-sexism).
+Misogyny and sexism are closely related but not the same thing. In Down Girl, The Logic of Misogyny [Down Girl, The Logic of Misogyny](https://books.google.de/books/about/Down_Girl.html?id=LqPoAQAACAAJ), Kate Manne defines sexism as the ideology that justifies and rationalises patriarchal social relations and structures. 
+
+Sexism wants us to believe those power relations are normal and make good sense. Misogyny, on the other hand, comes into play to enforce this system when it’s at threat: “misogyny should be understood primarily as the ‘law enforcement’ branch of a patriarchal order, which has the overall function of policing and enforcing its governing norms and expectations.” 
+
+Misogyny is thus always sexist, but sexism is not necessarily misogynistic. Read an interview where Kate Manne explains the distinction between sexism and misogyny in more detail [here](https://www.vox.com/identities/2017/12/5/16705284/metoo-weinstein-misogyny-trump-sexism).
 
 ## What we mean when we say women
 
